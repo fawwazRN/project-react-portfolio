@@ -19,7 +19,7 @@ export default function Hero() {
             <h1 className="font-bold max-md:text-5xl text-7xl">My Portfolio</h1>
           </div>
           <div className="space-y-4 max-md:w-full">
-            <div className="flex max-md:justify-between gap-4 max-md:gap-0">
+            <div className="flex max-sm:justify-between max-md:justify-center gap-4 max-sm:gap-0">
               <a
                 href=""
                 className="bg-utama px-7.5 max-md:px-5 py-2 rounded-full font-bold max-md:text-xl text-2xl">
@@ -36,7 +36,7 @@ export default function Hero() {
                 My Skills
               </a>
             </div>
-            <div className="flex max-md:justify-between gap-4">
+            <div className="flex max-sm:justify-between max-md:justify-center gap-4">
               <a
                 href="#myProject"
                 className="bg-utama px-7.5 py-2 rounded-full font-bold text-2xl">

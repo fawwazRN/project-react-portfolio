@@ -19,7 +19,7 @@ export default function AboutMe() {
             <img
               src={fawwaz}
               alt=""
-              className="w-100 max-md:w-full h-110 max-md:h-40 object-cover max-md:object-[0px_-40px]"
+              className="rounded-3xl w-100 max-md:w-full h-110 max-md:h-40 object-cover max-md:object-[0px_-40px]"
             />
             <div>
               <div>
