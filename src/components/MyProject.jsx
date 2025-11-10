@@ -30,16 +30,16 @@ export default function MyProject() {
                   alt=""
                   className="absolute w-full h-full object-cover"
                 />
-                <div className="absolute flex flex-col justify-center items-start bg-black/80 px-4 w-full h-full">
+                <div className="absolute flex flex-col justify-center items-start space-y-1 bg-black/80 px-4 w-full h-full">
                   <h1 className="font-bold text-5xl uppercase">{item.nama}</h1>
+                  <h2 className="text-xl uppercase tracking-widest">
+                    {item.slogan}
+                  </h2>
                   <div className="flex justify-between items-center gap-10 w-full">
                     <div className="bg-white w-full h-px"></div>
-                    <p>{item.persent}%</p>
+                    <p className="w-1/4">{item.tanggal}</p>
                   </div>
-                  <div>
-                    <p>tanggal dibikin: {item.tanggal}</p>
-                    <p>progress: {item.persent}%</p>
-                  </div>
+                  <div></div>
                 </div>
               </a>
             ))}

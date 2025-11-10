@@ -38,11 +38,12 @@ export default function AboutMe() {
               </div>
               <div>
                 <p className="max-md:line-clamp-5">
-                  seorang santri di pondok tahfizh plus it abudzar yang berminat
-                  dengan IT. dia memiliki banyak sekali project, diantaranya:
-                  indotravel, webkita, portfolio, dan eduverse yang dikerjakan
-                  secara bersama sama (berkelompok), dia sekarang masih belajar,
-                  kelas 10 SMA.
+                  A student at the Abudzar Tahfizh Plus IT Islamic boarding
+                  school who has a strong interest in Information Technology. He
+                  has worked on numerous projects, including Indotravel,
+                  Webkita, Portfolio, and Eduverse, most of which were developed
+                  collaboratively in group settings. He is currently still
+                  learning and is in the 10th grade of high school.
                 </p>
               </div>
             </div>

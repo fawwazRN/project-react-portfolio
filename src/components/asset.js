@@ -12,6 +12,7 @@ import WebKita from "../assets/img/WebKita.png";
 export const project = [
   {
     nama: "EduVerse",
+    slogan: "learn without limits",
     persent: 20,
     link: "https://fawwazrn.github.io/EDUVERSE/",
     img: edu,
@@ -19,6 +20,7 @@ export const project = [
   },
   {
     nama: "Animal Story",
+    slogan: "Daily Facts from the Wild",
     persent: 40,
     link: "https://fawwazrn.github.io/animal-story/",
     img: "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
@@ -26,6 +28,7 @@ export const project = [
   },
   {
     nama: "Online Sticky Notes",
+    slogan: "Quick Notes for Quick Minds",
     persent: 80,
     link: "https://fawwazrn.github.io/sticky-notes/",
     img: SNO,
@@ -33,6 +36,7 @@ export const project = [
   },
   {
     nama: "WebKita",
+    slogan: "Simple Web. Simple Life",
     persent: 80,
     link: "https://fawwazrn.github.io/WebKita/",
     img: WebKita,
